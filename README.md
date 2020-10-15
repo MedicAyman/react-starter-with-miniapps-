@@ -3,4 +3,3 @@ This is just a react native app with a list of miniapps. Each miniapp represents
 
 Used this to learn RN.
 
-Following Stephen Grider course. 
